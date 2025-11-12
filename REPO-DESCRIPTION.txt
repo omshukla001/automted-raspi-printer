@@ -1,0 +1,38 @@
+=== GITHUB REPOSITORY DESCRIPTION ===
+(Copy and paste this into the GitHub repository description field)
+
+Full-stack printer business website with React, Node.js, MongoDB, Razorpay payment integration, and Raspberry Pi printer support
+
+=== REPOSITORY TOPICS/TAGS ===
+(Add these topics to your repository on GitHub)
+
+react, nodejs, mongodb, express, typescript, tailwindcss, razorpay, payment-gateway, printer, raspberry-pi, full-stack, web-development, file-upload, order-management, e-commerce, cloudflare-tunnel
+
+=== SHORT ALTERNATIVE (if character limit) ===
+
+Modern printer business platform with React frontend, Node.js backend, MongoDB, Razorpay payments, and Raspberry Pi printer integration
+
+=== FEATURE-FOCUSED VERSION ===
+
+Complete printer business solution: file upload, pricing calculator, payment processing, order management, and direct printing via Raspberry Pi
+
+=== ABOUT SECTION (Extended Description) ===
+
+A complete full-stack printer business website that allows customers to upload files, select print options, calculate pricing, process payments via Razorpay, and print documents directly to Raspberry Pi-connected printers.
+
+Key Features:
+- Modern React frontend with TypeScript and Tailwind CSS
+- Node.js/Express backend with MongoDB database
+- Razorpay payment gateway integration
+- File upload (PDF, DOC, DOCX) with validation
+- Real-time pricing calculator with bulk discounts
+- Order management and tracking system
+- Raspberry Pi printer integration via Cloudflare Tunnel
+- Responsive design for mobile and desktop
+
+Tech Stack:
+- Frontend: React 18, TypeScript, Tailwind CSS, Radix UI
+- Backend: Node.js, Express.js, MongoDB, Mongoose
+- Payment: Razorpay SDK
+- Printer: Raspberry Pi, CUPS, Cloudflare Tunnel
+
